@@ -1,9 +1,24 @@
-Thank you for reading this README.
+Durbie is a 3D printer capable of printing real-life objects out of plastic. It is derived from the RepRap Prusa Mendel, with some modifications as below:
 
-To express our appreciation for reading this README, you deserve nothing less than a big THANK YOU.
+- uses a single motor for the Z axis (with the addition of a continous Z belt)
 
-Have a fabulous day.
+- slide coupling design allows use of slightly bent Z axis threaded rods - compensates wobbling
 
-_______________________________
+_____________________________________________________________
 
-Edit, edit.
+In the 'Downloads' section you can find:
+
+Durbie-Unique-RP-Parts.zip
+- This file contains all the unique RP parts that differ from the legacy design (Prusa Mendel). Be sure to refer to the Durbie's BOM list as the quantities for the unchanged RP parts are different from that in the Prusa's BOM.
+
+Durbie-Assy-PDF-LowRes.pdf
+- "Durbie Prusa Mendel Assembly Instructions" in low resolution. File size: 6.33MB
+
+Durbie-Assy-PDF-MedRes.pdf
+- "Durbie Prusa Mendel Assembly Instructions" in medium resolution. FIle size: 19.4MB
+
+Durbie-Assy-HiRes.pdf
+- "Durbie Prusa Mendel Assembly Instructions" in high resolution. File size: 32.3MB
+
+Durbie-Assy-HiRes-TwinPage.pdf
+- "Durbie Prusa Mendel Assembly Instructions" in high resolution, 2 pages per sheet. File size: 21.0MB
