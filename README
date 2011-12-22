@@ -1,17 +1,8 @@
-Durbie is a 3D printer capable of printing real-life objects out of plastic. It is derived from the RepRap Prusa Mendel, with some modifications as below:
+This repo contains direct downloads only.
 
-- uses a single motor for the Z axis (with the addition of a continous Z belt)
-
-- slide coupling design allows use of slightly bent Z axis threaded rods - compensates wobbling
-
-License GPL
-
-No guarantee is made that the files contained in this project will be free
-from design faults. The user accepts the risk that some issues may arise
-from printing and assembling the files contained within this project. Users
-are however encouraged to publish errors/improvements back to the originator
-via email to romscraj@orangeknob.com
-_____________________________________________________________
+Be sure to visit the forked/branched PrusaMendel repo for more details:
+https://github.com/romscraj/PrusaMendel/tree/Durbie
+_____________________________________________________________________
 
 In the 'Downloads' section you can find:
 
@@ -32,32 +23,4 @@ WadeV2M4-Assy.odp
 - "Wade's Extruder 2 (M4) Assembly Instructions" OpenDocument master
 
 Durbie-Unique-RP-Parts.zip
-- This file contains all the unique RP parts that differ from the original Prusa Mendel. Be sure to refer to the Durbie's Bill of Materials list below as there are some changes to the quantities for the parts which are common with the Prusa Mendel.
-_____________________________________________________________
-
-Bill of Materials (Printed Parts)
-
-RP parts that are common with the Prusa Mendel (marked *unchanged* below) can be found at: https://github.com/prusajr/PrusaMendel. Take note that some quantities for the common (*unchanged*) parts differ from the original Prusa Mendel requirement.
-
-4x frame-vertex-with-foot *unchanged*
-2x frame-vertex-without-foot *unchanged*
-1x y-motor-bracket *unchanged*
-6x bar-clamp *unchanged*
-1x bottom-right-bearing-holder
-1x bottom-left-bearing-holder
-3x endstop-holder  (2x additional required if mounting electronics as shown in Step 10.8 of Assembly Instructions) *unchanged*
-1x x-end-idler
-1x x-end-motor
-2x slide-coupling-base
-2x slide-coupling-block
-2x slide-coupling-cover
-1x top-right-bearing-holder
-1x top-left-bearing-holder
-1x z-motor-bracket
-1x x-carriage *unchanged*
-2x rod-clamp *unchanged*
-4x belt-clamp *unchanged*
-2x belt-riser
-12x PLA-bushings *unchanged*
-3x motor-pulley *unchanged*
-2x z-pulley
+- This file contains all the unique RP parts that differ from the original Prusa Mendel.
